@@ -1,0 +1,7 @@
+Dataset,Live,Spoof,Total,Live:Spoof
+NDCLD15,2475,4825,7300,0.51
+IIITD_NewNormal,6022,0,6022,N/A (Live-only)
+IIITD_Cogent,1163,2303,3466,0.5
+IIITD_Vista,1000,2015,3015,0.5
+PrintScan_Cogent,194,581,775,0.33
+PrintScan_Vista,192,889,1081,0.22
