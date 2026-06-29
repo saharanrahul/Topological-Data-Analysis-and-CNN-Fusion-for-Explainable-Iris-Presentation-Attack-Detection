@@ -1,0 +1,28 @@
+
+Tested with Python 3.11 (conda env: iris_xai)
+numpy>=1.24,<2.0
+pandas>=2.0
+scipy>=1.10
+
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+torch>=2.1
+torchvision>=0.16
+torchaudio>=2.1
+scikit-learn>=1.3
+opencv-python>=4.8
+Pillow>=10.0
+giotto-tda>=0.6.0
+ripser>=0.6.4
+persim>=0.3.1
+captum>=0.7.0
+shap>=0.44.0
+grad-cam>=1.4.8
+matplotlib>=3.7
+seaborn>=0.12
+tqdm>=4.66
+joblib>=1.3
+PyYAML>=6.0
+notebook>=7.0
+ipykernel>=6.25
+ipywidgets>=8.1
+streamlit>=1.28
