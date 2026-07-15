@@ -1,0 +1,51 @@
+2026-07-10 16:25:33,912 | === Starting: resnet18_P1_Cogent_to_Cogent ===
+2026-07-10 19:46:58,523 | resnet18_P1_Cogent_to_Cogent -> ACC:96.22% ACER:3.77% EER:3.24% AUC:0.9950
+2026-07-10 19:46:58,593 | === Starting: resnet18_P2_Vista_to_Vista ===
+2026-07-10 23:25:01,442 | resnet18_P2_Vista_to_Vista -> ACC:97.81% ACER:2.19% EER:1.88% AUC:0.9984
+2026-07-10 23:25:01,461 | === Starting: resnet18_P3_Cogent_to_Vista ===
+2026-07-11 02:03:19,834 | resnet18_P3_Cogent_to_Vista -> ACC:99.55% ACER:0.45% EER:0.40% AUC:0.9996
+2026-07-11 02:03:19,843 | === Starting: resnet18_P4_Vista_to_Cogent ===
+2026-07-11 04:36:59,276 | resnet18_P4_Vista_to_Cogent -> ACC:93.67% ACER:6.32% EER:5.25% AUC:0.9923
+2026-07-11 04:36:59,286 | === Starting: resnet18_P5_Combined ===
+2026-07-11 07:26:45,458 | resnet18_P5_Combined -> ACC:96.52% ACER:3.47% EER:2.61% AUC:0.9980
+2026-07-11 07:26:45,472 | === Starting: densenet121_P1_Cogent_to_Cogent ===
+2026-07-11 12:25:46,369 | densenet121_P1_Cogent_to_Cogent -> ACC:97.84% ACER:2.15% EER:1.08% AUC:0.9983
+2026-07-11 12:25:46,406 | === Starting: densenet121_P2_Vista_to_Vista ===
+2026-07-11 19:15:36,777 | densenet121_P2_Vista_to_Vista -> ACC:98.12% ACER:1.88% EER:0.31% AUC:0.9985
+2026-07-11 19:15:36,827 | === Starting: densenet121_P3_Cogent_to_Vista ===
+2026-07-12 01:52:16,882 | densenet121_P3_Cogent_to_Vista -> ACC:99.35% ACER:0.65% EER:0.55% AUC:0.9999
+2026-07-12 01:52:16,898 | === Starting: densenet121_P4_Vista_to_Cogent ===
+2026-07-12 07:29:05,487 | densenet121_P4_Vista_to_Cogent -> ACC:94.58% ACER:5.43% EER:4.65% AUC:0.9894
+2026-07-12 07:29:05,550 | === Starting: densenet121_P5_Combined ===
+2026-07-12 18:29:40,311 | densenet121_P5_Combined -> ACC:97.39% ACER:2.60% EER:1.16% AUC:0.9967
+2026-07-12 18:29:40,348 | === Starting: vgg16_P1_Cogent_to_Cogent ===
+2026-07-12 23:49:03,554 | vgg16_P1_Cogent_to_Cogent -> ACC:97.03% ACER:2.96% EER:2.43% AUC:0.9944
+2026-07-12 23:49:03,570 | === Starting: vgg16_P2_Vista_to_Vista ===
+2026-07-13 05:51:26,037 | vgg16_P2_Vista_to_Vista -> ACC:99.06% ACER:0.94% EER:2.50% AUC:0.9993
+2026-07-13 17:44:13,308 | === Starting: vgg16_P3_Cogent_to_Vista ===
+2026-07-13 17:52:03,878 | === Starting: vgg16_P3_Cogent_to_Vista ===
+2026-07-13 20:14:55,199 | vgg16_P3_Cogent_to_Vista -> ACC:99.55% ACER:0.45% EER:0.40% AUC:0.9992
+2026-07-13 20:14:55,216 | === Starting: vgg16_P4_Vista_to_Cogent ===
+2026-07-13 22:42:26,124 | vgg16_P4_Vista_to_Cogent -> ACC:98.02% ACER:1.98% EER:1.89% AUC:0.9984
+2026-07-13 22:42:26,130 | === Starting: vgg16_P5_Combined ===
+2026-07-14 02:00:52,289 | vgg16_P5_Combined -> ACC:97.39% ACER:2.60% EER:1.74% AUC:0.9962
+2026-07-14 02:00:52,289 | === Starting: mobilenetv2_P1_Cogent_to_Cogent ===
+2026-07-14 03:14:06,351 | mobilenetv2_P1_Cogent_to_Cogent -> ACC:96.49% ACER:3.51% EER:3.24% AUC:0.9952
+2026-07-14 03:14:06,363 | === Starting: mobilenetv2_P2_Vista_to_Vista ===
+2026-07-14 04:53:25,654 | mobilenetv2_P2_Vista_to_Vista -> ACC:99.69% ACER:0.31% EER:0.31% AUC:0.9998
+2026-07-14 04:53:25,665 | === Starting: mobilenetv2_P3_Cogent_to_Vista ===
+2026-07-14 06:31:46,859 | mobilenetv2_P3_Cogent_to_Vista -> ACC:99.35% ACER:0.65% EER:0.45% AUC:0.9999
+2026-07-14 06:31:46,890 | === Starting: mobilenetv2_P4_Vista_to_Cogent ===
+2026-07-14 09:02:01,298 | mobilenetv2_P4_Vista_to_Cogent -> ACC:94.79% ACER:5.21% EER:4.86% AUC:0.9921
+2026-07-14 09:02:01,321 | === Starting: mobilenetv2_P5_Combined ===
+2026-07-14 10:49:38,256 | mobilenetv2_P5_Combined -> ACC:97.10% ACER:2.89% EER:2.46% AUC:0.9968
+2026-07-14 10:49:38,323 | === Starting: densenet121_apbs_P1_Cogent_to_Cogent ===
+2026-07-14 14:44:03,734 | densenet121_apbs_P1_Cogent_to_Cogent -> ACC:98.65% ACER:1.34% EER:1.35% AUC:0.9986
+2026-07-14 14:44:03,792 | === Starting: densenet121_apbs_P2_Vista_to_Vista ===
+2026-07-14 23:02:18,417 | densenet121_apbs_P2_Vista_to_Vista -> ACC:97.50% ACER:2.50% EER:2.19% AUC:0.9988
+2026-07-14 23:02:18,474 | === Starting: densenet121_apbs_P3_Cogent_to_Vista ===
+2026-07-15 01:27:02,206 | densenet121_apbs_P3_Cogent_to_Vista -> ACC:99.20% ACER:0.80% EER:0.75% AUC:0.9998
+2026-07-15 01:27:02,231 | === Starting: densenet121_apbs_P4_Vista_to_Cogent ===
+2026-07-15 03:54:43,783 | densenet121_apbs_P4_Vista_to_Cogent -> ACC:97.63% ACER:2.37% EER:2.24% AUC:0.9941
+2026-07-15 03:54:43,799 | === Starting: densenet121_apbs_P5_Combined ===
+2026-07-15 05:09:46,619 | densenet121_apbs_P5_Combined -> ACC:98.12% ACER:1.88% EER:1.88% AUC:0.9965
