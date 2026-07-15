@@ -1,0 +1,13 @@
+{
+  "Backbone": "vgg16",
+  "Protocol": "P2_Vista_to_Vista",
+  "Accuracy": 99.06,
+  "APCER": 1.88,
+  "BPCER": 0.0,
+  "ACER": 0.94,
+  "EER": 2.5,
+  "AUC": 0.9993,
+  "Effective_train_size": 21961,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\vgg16_P2_Vista_to_Vista.pth",
+  "Epochs_trained": 31
+}

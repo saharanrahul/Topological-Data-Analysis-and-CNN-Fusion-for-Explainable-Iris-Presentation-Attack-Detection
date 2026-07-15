@@ -1,0 +1,13 @@
+{
+  "Backbone": "densenet121_apbs",
+  "Protocol": "P5_Combined",
+  "Accuracy": 98.12,
+  "APCER": 2.31,
+  "BPCER": 1.45,
+  "ACER": 1.88,
+  "EER": 1.88,
+  "AUC": 0.9965,
+  "Effective_train_size": 21831,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\densenet121_apbs_P5_Combined.pth",
+  "Epochs_trained": 11
+}

@@ -1,0 +1,13 @@
+{
+  "Backbone": "mobilenetv2",
+  "Protocol": "P4_Vista_to_Cogent",
+  "Accuracy": 94.79,
+  "APCER": 7.5,
+  "BPCER": 2.92,
+  "ACER": 5.21,
+  "EER": 4.86,
+  "AUC": 0.9921,
+  "Effective_train_size": 21885,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\mobilenetv2_P4_Vista_to_Cogent.pth",
+  "Epochs_trained": 26
+}

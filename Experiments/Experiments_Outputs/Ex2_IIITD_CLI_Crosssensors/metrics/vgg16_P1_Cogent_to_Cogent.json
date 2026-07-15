@@ -1,0 +1,13 @@
+{
+  "Backbone": "vgg16",
+  "Protocol": "P1_Cogent_to_Cogent",
+  "Accuracy": 97.03,
+  "APCER": 5.91,
+  "BPCER": 0.0,
+  "ACER": 2.96,
+  "EER": 2.43,
+  "AUC": 0.9944,
+  "Effective_train_size": 21980,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\vgg16_P1_Cogent_to_Cogent.pth",
+  "Epochs_trained": 31
+}

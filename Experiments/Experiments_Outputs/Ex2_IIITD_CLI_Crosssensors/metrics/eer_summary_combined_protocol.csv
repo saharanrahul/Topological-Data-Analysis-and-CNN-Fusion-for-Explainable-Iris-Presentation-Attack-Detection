@@ -1,0 +1,6 @@
+Backbone,EER (%)
+densenet121,1.45
+densenet121_apbs,2.03
+vgg16,2.31
+mobilenetv2,2.61
+resnet18,3.47

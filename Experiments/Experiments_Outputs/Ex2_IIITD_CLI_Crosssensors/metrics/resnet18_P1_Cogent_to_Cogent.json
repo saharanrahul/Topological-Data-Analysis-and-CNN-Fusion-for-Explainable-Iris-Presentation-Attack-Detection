@@ -1,0 +1,13 @@
+{
+  "Backbone": "resnet18",
+  "Protocol": "P1_Cogent_to_Cogent",
+  "Accuracy": 96.22,
+  "APCER": 6.99,
+  "BPCER": 0.54,
+  "ACER": 3.77,
+  "EER": 3.24,
+  "AUC": 0.995,
+  "Effective_train_size": 21980,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\resnet18_P1_Cogent_to_Cogent.pth",
+  "Epochs_trained": 28
+}

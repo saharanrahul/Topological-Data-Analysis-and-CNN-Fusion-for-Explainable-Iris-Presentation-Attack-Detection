@@ -1,0 +1,13 @@
+Backbone,Protocol,Accuracy,APCER,BPCER,ACER,EER,AUC,Effective_train_size,Model path,Epochs_trained
+resnet18,P1_Cogent_to_Cogent,96.22,6.99,0.54,3.77,3.24,0.995,21980,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\resnet18_P1_Cogent_to_Cogent.pth,28
+resnet18,P2_Vista_to_Vista,97.81,4.38,0.0,2.19,1.88,0.9984,21961,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\resnet18_P2_Vista_to_Vista.pth,40
+resnet18,P3_Cogent_to_Vista,99.55,0.7,0.2,0.45,0.4,0.9996,21930,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\resnet18_P3_Cogent_to_Vista.pth,32
+resnet18,P4_Vista_to_Cogent,93.67,2.07,10.58,6.32,5.25,0.9923,21885,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\resnet18_P4_Vista_to_Cogent.pth,29
+resnet18,P5_Combined,96.52,6.36,0.58,3.47,2.61,0.998,21831,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\resnet18_P5_Combined.pth,34
+densenet121,P1_Cogent_to_Cogent,97.84,3.76,0.54,2.15,1.08,0.9983,21980,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\densenet121_P1_Cogent_to_Cogent.pth,38
+densenet121,P2_Vista_to_Vista,98.12,3.75,0.0,1.88,0.31,0.9985,21961,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\densenet121_P2_Vista_to_Vista.pth,50
+densenet121,P3_Cogent_to_Vista,99.35,1.29,0.0,0.65,0.55,0.9999,21930,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\densenet121_P3_Cogent_to_Vista.pth,41
+densenet121,P4_Vista_to_Cogent,94.58,10.52,0.34,5.43,4.65,0.9894,21885,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\densenet121_P4_Vista_to_Cogent.pth,36
+densenet121,P5_Combined,97.39,4.62,0.58,2.6,1.16,0.9967,21831,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\densenet121_P5_Combined.pth,50
+vgg16,P1_Cogent_to_Cogent,97.03,5.91,0.0,2.96,2.43,0.9944,21980,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\vgg16_P1_Cogent_to_Cogent.pth,31
+vgg16,P2_Vista_to_Vista,99.06,1.88,0.0,0.94,2.5,0.9993,21961,C:\Users\sahar\OneDrive\Desktop\EXPLAINABLE_IRIS_PAD\Experiments\Exp5_IIITD_CrossSensor_5Protocol\outputs\models\vgg16_P2_Vista_to_Vista.pth,31

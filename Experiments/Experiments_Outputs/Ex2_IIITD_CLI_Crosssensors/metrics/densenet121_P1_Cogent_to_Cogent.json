@@ -1,0 +1,13 @@
+{
+  "Backbone": "densenet121",
+  "Protocol": "P1_Cogent_to_Cogent",
+  "Accuracy": 97.84,
+  "APCER": 3.76,
+  "BPCER": 0.54,
+  "ACER": 2.15,
+  "EER": 1.08,
+  "AUC": 0.9983,
+  "Effective_train_size": 21980,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\densenet121_P1_Cogent_to_Cogent.pth",
+  "Epochs_trained": 38
+}

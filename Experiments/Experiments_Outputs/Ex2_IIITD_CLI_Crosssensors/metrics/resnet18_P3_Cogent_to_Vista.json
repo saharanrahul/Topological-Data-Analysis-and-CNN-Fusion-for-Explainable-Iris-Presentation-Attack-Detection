@@ -1,0 +1,13 @@
+{
+  "Backbone": "resnet18",
+  "Protocol": "P3_Cogent_to_Vista",
+  "Accuracy": 99.55,
+  "APCER": 0.7,
+  "BPCER": 0.2,
+  "ACER": 0.45,
+  "EER": 0.4,
+  "AUC": 0.9996,
+  "Effective_train_size": 21930,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\resnet18_P3_Cogent_to_Vista.pth",
+  "Epochs_trained": 32
+}

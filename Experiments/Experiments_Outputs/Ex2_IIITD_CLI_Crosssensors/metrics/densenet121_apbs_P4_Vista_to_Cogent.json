@@ -1,0 +1,13 @@
+{
+  "Backbone": "densenet121_apbs",
+  "Protocol": "P4_Vista_to_Cogent",
+  "Accuracy": 97.63,
+  "APCER": 3.28,
+  "BPCER": 1.46,
+  "ACER": 2.37,
+  "EER": 2.24,
+  "AUC": 0.9941,
+  "Effective_train_size": 21885,
+  "Model path": "C:\\Users\\sahar\\OneDrive\\Desktop\\EXPLAINABLE_IRIS_PAD\\Experiments\\Exp5_IIITD_CrossSensor_5Protocol\\outputs\\models\\densenet121_apbs_P4_Vista_to_Cogent.pth",
+  "Epochs_trained": 22
+}
