@@ -1,0 +1,10 @@
+{
+  "Protocol": "P2_Vista_to_Vista",
+  "Accuracy": 67.81,
+  "APCER": 31.25,
+  "BPCER": 33.12,
+  "ACER": 32.19,
+  "EER": 31.25,
+  "AUC": 0.7635,
+  "N_features": 75
+}

@@ -1,0 +1,6 @@
+Protocol,Accuracy,APCER,BPCER,ACER,EER,AUC,N_features
+P1_Cogent_to_Cogent,65.41,35.48,33.7,34.59,33.78,0.6844,78
+P2_Vista_to_Vista,67.81,31.25,33.12,32.19,31.25,0.7635,75
+P3_Cogent_to_Vista,58.9,32.44,49.8,41.12,40.3,0.6316,78
+P4_Vista_to_Cogent,57.38,38.53,46.69,42.61,42.45,0.6185,75
+P5_Combined,67.54,31.79,33.14,32.47,32.46,0.726,77

@@ -1,0 +1,10 @@
+{
+  "Protocol": "P5_Combined",
+  "Accuracy": 67.54,
+  "APCER": 31.79,
+  "BPCER": 33.14,
+  "ACER": 32.47,
+  "EER": 32.46,
+  "AUC": 0.726,
+  "N_features": 77
+}

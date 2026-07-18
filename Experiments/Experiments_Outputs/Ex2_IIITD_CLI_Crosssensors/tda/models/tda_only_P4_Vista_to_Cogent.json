@@ -1,0 +1,10 @@
+{
+  "Protocol": "P4_Vista_to_Cogent",
+  "Accuracy": 57.38,
+  "APCER": 38.53,
+  "BPCER": 46.69,
+  "ACER": 42.61,
+  "EER": 42.45,
+  "AUC": 0.6185,
+  "N_features": 75
+}
