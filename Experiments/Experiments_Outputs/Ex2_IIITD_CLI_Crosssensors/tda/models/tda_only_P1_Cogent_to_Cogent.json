@@ -1,0 +1,10 @@
+{
+  "Protocol": "P1_Cogent_to_Cogent",
+  "Accuracy": 65.41,
+  "APCER": 35.48,
+  "BPCER": 33.7,
+  "ACER": 34.59,
+  "EER": 33.78,
+  "AUC": 0.6844,
+  "N_features": 78
+}
